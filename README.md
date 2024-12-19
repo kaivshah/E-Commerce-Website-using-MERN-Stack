@@ -1,6 +1,5 @@
 # MERN Ecommerce Application
 
-<code>Currently under construction for additional features</code>
 
 # Description
 
