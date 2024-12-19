@@ -7,6 +7,8 @@ Full-stack ecommerce application built with MERN stack. This project has two fea
 
 1. Buyers register and browse the marketplace while interacting with products across different categories.
 2. Admins control and manage the marketplace items and customer acounts.
+3. Using Amazon Web Scraper to compare similar products on the platform and amazon.
+4. Using Web Crawler to get the reviews of the select product over the internet.
 
 # Getting Started
 
